@@ -26,11 +26,11 @@
 5) Geolocation - Shows the geographic location of the target ip on a map interface. [there are only 6 countries connected, to use this feature properly, please goto batch-tool/worldsearch to use this feature to its full potential.]
 6) Settings - Provides with a bunch of settings that are preset. These can be altered with developer tools activated.
 7) Updates - Shows you 5 update options.
--1 Apply Updates - Only works when update file is downloaded and in the same dir as the main program. will also give you an alert on launch if there is an update file available.
--2 Diagnostics - Provides user with a list of files that are needed for the program to run properly.
--3 Connect to IP DataBase - Does Not Work ☹️.
--4 Search for Developer Module - If a developer file is available in the program dir, will also alert you on startup if file is availabe.
--5 Wipe Data - Erases all the data and resets to original data (saves pervious ip files).
+- Apply Updates - Only works when update file is downloaded and in the same dir as the main program. will also give you an alert on launch if there is an update file available.
+- Diagnostics - Provides user with a list of files that are needed for the program to run properly.
+- Connect to IP DataBase - Does Not Work ☹️.
+- Search for Developer Module - If a developer file is available in the program dir, will also alert you on startup if file is availabe.
+- Wipe Data - Erases all the data and resets to original data (saves pervious ip files).
 8) Recent IP's - Shows you a list of recent IP's used in a .txt file.
 
 ### - 💾 Versions💾 - 
