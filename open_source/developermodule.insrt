@@ -1,0 +1,8 @@
+@echo off
+chcp65001
+echo This Is a Developer File.>>developerfiles.dev
+echo If you access this file and see this text then you are a Developer>>developerfiles.dev
+echo DEVELOPER CODE=>>developerfiles.dev
+echo [INTERNETPROTOCOLSEARCHTOOL]>>developerfiles.dev
+echo ACCESS GRANTED>>developerfiles.dev
+exit
