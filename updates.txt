@@ -1,1 +1,99 @@
 
+=================================================================================
+Download The App: https://github.com/sjapanwala/IPST/blob/main/IPST_UPDATED.cmd
+=================================================================================
+    __                                 ________                               
+   / /   ____  ____ ______     __     / ____/ /_  ____ _____  ____ ____  _____
+  / /   / __ \/ __ `/ ___/  __/ /_   / /   / __ \/ __ `/ __ \/ __ `/ _ \/ ___/
+ / /___/ /_/ / /_/ (__  )  /_  __/  / /___/ / / / /_/ / / / / /_/ /  __(__  ) 
+/_____/\____/\__, /____/    /_/     \____/_/ /_/\__,_/_/ /_/\__, /\___/____/  
+            /____/                                         /____/             
+
+-----------------------------------------------------------------------------
+       LOGS AND CHANGES. NEW UPDATES AND VERSION INFORMATION
+-----------------------------------------------------------------------------
+GUIDE:
+
+Version Releases: Released version number is included in the header. Any changes will be provided under, including a brief explanation on what the change is, why it is important, and how it changes the trajectory of the program.
+
+Future Release: ("Future Release" are titled as "(version #) Preview". They will showcase POSSIBLE future updates that are to come in the next versions. While these updates are very likely, they arent a 100 percent garunteed. Future Release will be replaces with the actual update log, and a preview for the next update will be released.)
+
+--------------------------------Version 0.1---------------------------------
+> Launch Version
+   - Search Tool #1
+   - Search Tool #2
+   - Change Target IP
+   - Geolocation
+   - Help
+> All Features Added
+> Free To Use
+> Anyone who downloaded this version has access to the founders pass which enables all developer features, and experimental features
+--------------------------------Version 0.2---------------------------------
+> Added Activation Key.
+  - You will be required to purchase a key, or will be required to input a provided key
+  - To use the software without a key, use the command "onetimeuse" where it asks you to enter a key. No data will be saved and alot of resources will be unavailabe.
+> Added "Updates + Status" Section
+  - Updates will be found here. when an update is released, you can download it from the github and move it to the file the program is saved in and it will be detected.
+    + You can always download a new file version instead. But settings you have modified will be saved and you dont havce to reset everything
+> Added Developer Mode
+  - The Use of Developer Mode Is Strictly for development.
+  - Provides No Extra Features as of now
+  - Shows Extra Debug Commands
+  - Developer Code "0000"
+  - Developer Username "root"
+  - Developer Passcode "0000" (same as developer code)
+> Added Connection to IP Data Base
+  - the software without a connection is usable, but has a connection limit (~20 requests perday, each launch uses 5 requests)
+  - Connecting to the database allows you to send more connections as you are connected to IPST servers.
+  - Sending a your "supportreciept.txt" to us will give you access to the server, free of cost (as of now, if you are a member and price changes, you will not be required to pay)
+> Removed "Help" as "Readme.md" was a better alternative
+--------------------------------Version 0.3---------------------------------
+> Added a new terminal command line to the interface
+   - To access command line, when the main interface is launched, type "cmd" or "commandline"
+   - To exit commandline, type "esc", "escape" or, "exit"
+   - Command help can be accessed with "help"
+   - Custom commands can be written and injected
+   - While this is still an IP Tool, since its based off MSDOS, it can still perform the same functions as a regular terminal can, and can create shortcuts
+   - Graphics interface got buggy and would limit customization to the program
+   - All functions can still be used through the command line
+   - Functions can be brute forced through the commandline, this will cause them to work unexpectedly and will cause errors in the output
+   - Currently only accessable to developers, or individuals with developerfile access
+> Future Terminal Commands
+   - Experimental Mode
+   - Hard Launch/Soft Launch
+--------------------------------Version 0.35---------------------------------
+-----------------------------UPDATES AND STATUS------------------------------
+> Better Developer Mode Controls
+    - Developer can now be accessed by downloading a file "developermodule.insrt"
+    - After adding the "developermodule.insrt" file into the root folder, the program will detect the file and alert you the file has been found
+    - To activate the file, goto the "Updates + Status" subsection (option #6) and click on "search for developer module" (option #4) 
+    - The update will be made and will ask you if you want to clean unncessecary files from the root folder
+    - Option #4 will no longer be availabl eas "search for developer module" but instead be an access subsection for developer tools that you can access without    
+      the root terminal
+> Apply Updates
+    - Updates subsection is now fully operable, downloading update files will prompt the software to detect the update and prepare to apply the update upon the users request, (by selecting "Apply Updates" (option #1) in the "Updates + Status" section (option #6)
+> Diagnostics
+    - If the software is operating unexpectedly, a diagnostic can be run informing the user of the missing files.
+    - If there are any missing files, the user can either download them from GITHUB or can use the terminal to create those files themselves. (developer mode is required for creating files VIA terminal.
+> Recent IP's Recorded
+    - Now all the recent ips tested or used will be recored
+    - Any ips blocked that are not usable will not be displayed on the recent ip files
+    - currently no way to override this option, (future passcode option will be available, or developer settings will enable this)
+
+--------------------------------Version 0.35 RENEWED (REN)------------------------
+-----------------------------UPDATE REQUIRES REINSTALL----------------------------
+> WHOLE NEW ENGINE SYSTEM
+    - We have shifted main API systems!
+    - Code has been reprogrammed to run more effeciently and stress free
+> Removed 2 IP Options
+    - Previously used to contain 2 options for IP search 
+    - Option number 1 has transformed into a local IP search, will show your current devices IP.
+    - Option number 2 has stayed the same
+> Added WHOIS?
+    - WHOSIS is more for nerds and developers.
+> Added 3 IPBRANCHES
+    - can access 3 ipsearch tools in developertools or cmd line "runiproot"
+> Autosave
+    - automatically records ip used
+    - automatically records ip data into ip folder in directory
+
